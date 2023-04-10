@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'ZahraRoosta';
+  src: url(../fonts/ZahraRoosta.eot);
+  src: url(../fonts/ZahraRoosta.eot?#iefix) format('embedded-opentype'),
+       url(../fonts/ZahraRoosta.otf) format('otf'),
+       url(../fonts/ZahraRoosta.svg#ZahraRoosta) format('svg'),
+       url(../fonts/ZahraRoosta.ttf) format('truetype'),
+       url(../fonts/ZahraRoosta.woff) format('woff'),
+       url(../fonts/ZahraRoosta.woff2) format('woff2');
+}
