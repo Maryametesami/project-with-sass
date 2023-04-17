@@ -19,14 +19,14 @@ This is a solution to the [Project with sass]
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
+- View a page from a responsive site coded by Sass.
+- See the slider designed inside the page coded by JavaScript.
 
 ### Screenshot
 
 
--Desktop screenshot : ![Desktop screenshot](images/Desktop-FireShotCapture.png)
--mobile screenshot : ![mobile screenshot](images/mobile-FireShotCapture.png)
+-Desktop screenshot : ![Desktop screenshot](image/FireShot Capture 001 - scss sample - Desktop.png)
+-mobile screenshot : ![mobile screenshot](image/)
 
 
 
