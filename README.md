@@ -25,17 +25,17 @@ Users should be able to:
 ### Screenshot
 
 
-- Desktop screenshot:[Desktop-screenshot](image/desktop.png/)
+- Desktop screenshot : [Desktop-screenshot](image/Desktop.png/)
 
-- mobile screenshot:[Desktop-screenshot](image/desktop.png/)
+- mobile screenshot:[Desktop-screenshot](image/mobile.png/)
 
 
 
 
 ### Links
 
-- Solution URL:[solition](https://github.com/Maryametesami/social-media)
-- Live Site URL:[live site](https://maryametesami.github.io/social-media/)
+- Solution URL:[solition](https://github.com/Maryametesami/project-with-sass)
+- Live Site URL:[live site](https://maryametesami.github.io/project-with-sass/)
 ## My process
 
 ### Built with
@@ -44,13 +44,14 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - sass
+-javascript
 
 
 
 ### What I learned
 
 workinh with sass 
-make slider
+make slider with javascript
 
 
 
