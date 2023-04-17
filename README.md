@@ -25,8 +25,8 @@ Users should be able to:
 ### Screenshot
 
 
--Desktop screenshot : Desktop screenshot (image/desktop.png)
--mobile screenshot : mobile screenshot (image/)
+-Desktop screenshot : [Desktop-screenshot] (image/desktop.png)
+-mobile screenshot : (image/)
 
 
 
