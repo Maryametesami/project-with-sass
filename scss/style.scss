@@ -653,6 +653,31 @@ section{
            
         }
     }
+    .slider__slide{
+       @media(min-width:1500px){
+           right:25%;
+    }
+     @media(max-width:1199px){
+            top: 4%;
+      }
+    @media(max-width:768px){
+            top: -20px;
+            right: 70px;
+    }
+      
+    }
+     .slider__slide img {
+       @media(min-width:1500px){
+    transform: scale(1.5);
+    }
+      @media(max-width:1199px){
+    transform: scale(0.8);
+    }
+       @media(max-width:991px){
+    transform: scale(0.6);
+    }
+     
+     }
     #sevs-1{
         
         .slider__slide2{
