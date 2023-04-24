@@ -27,7 +27,7 @@ Users should be able to:
 
 - Desktop screenshot : [Desktop-screenshot](image/Desktop.png/)
 
-- mobile screenshot:[Desktop-screenshot](image/mobile.png/)
+- mobile screenshot:[Mobile-screenshot](image/mobile.png/)
 
 
 
