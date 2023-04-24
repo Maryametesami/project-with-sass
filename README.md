@@ -50,7 +50,7 @@ Users should be able to:
 
 ### What I learned
 
-workinh with sass 
+workinh with sass and
 make slider with javascript
 
 
