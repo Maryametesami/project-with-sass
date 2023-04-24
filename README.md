@@ -44,7 +44,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - sass
--javascript
+- javascript
 
 
 
